@@ -1,7 +1,4 @@
-Instruction Manual for the Digital
-Inclusion Website
-	 CS + Social Good Studio
-Empathize | Define | Ideate | Prototype | Test
+Instruction Manual for the Digital Inclusion Website
 	
 
 Purpose of the Website
