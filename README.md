@@ -22,6 +22,5 @@ How to Access the Code
 
 
 This website is programmed in React. To access the code:
-* open it in GitHub (PASTE LINK HERE AFTER THE PROJECT IS RELEASED) 
 * download Visual Studio Code here: https://code.visualstudio.com/.
 * download GitHub Desktop and clone the repository from GitHub by following instructions here: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop (in Part 3, please follow the instructions for Clone Repository). After the repository is cloned, click “Open in Visual Studio Code.” 
