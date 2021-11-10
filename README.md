@@ -6,6 +6,10 @@ Purpose of the Website
 
 The purpose of this website is 1) to inform the user of the different programs in the San José Digital Inclusion Fund and 2) to collect user data that can be helpful when matching the user to a grantee. The website aims to achieve these through a journey map that has clear steps for the user to follow. The ultimate goal is to make it as simple as possible for the user to access information and resources that might be of help to them. 
 
+**For more detailed information about the research done for designing the website, refer to the final presentation file.**
+
+
+**To check out the demo of the website we built, watch our prototype demo file!**
 
 Main Components of the Website
 
